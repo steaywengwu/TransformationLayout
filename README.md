@@ -15,6 +15,10 @@
 </p>
 
 ## Download
+快速共享动画设置,提供了容器layout,可快速配置在activity fragment view容器中
+开启共享动画：（api min 21）
+
+
 Go to the [Releases](https://github.com/skydoves/TransformationLayout/releases) to download the demo APK.
 
 ## Screenshots
